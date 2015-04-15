@@ -5,8 +5,6 @@
 //  Created by Nick Nelson on 4/15/15.
 //  Copyright (c) 2015 Nick Nelson. All rights reserved.
 //
-// this is a modification so i can make a commit
-//
 
 import UIKit
 
