@@ -13,6 +13,7 @@
 		24FF3AFC1ADEF32D0063DCD4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24FF3AFB1ADEF32D0063DCD4 /* Images.xcassets */; };
 		24FF3AFF1ADEF32D0063DCD4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 24FF3AFD1ADEF32D0063DCD4 /* LaunchScreen.xib */; };
 		24FF3B0B1ADEF32D0063DCD4 /* an_applicationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24FF3B0A1ADEF32D0063DCD4 /* an_applicationTests.swift */; };
+		24FF3B151ADEF6770063DCD4 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24FF3B141ADEF6770063DCD4 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		24FF3B041ADEF32D0063DCD4 /* an applicationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "an applicationTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		24FF3B091ADEF32D0063DCD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		24FF3B0A1ADEF32D0063DCD4 /* an_applicationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = an_applicationTests.swift; sourceTree = "<group>"; };
+		24FF3B141ADEF6770063DCD4 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				24FF3AF41ADEF32D0063DCD4 /* AppDelegate.swift */,
 				24FF3AF61ADEF32D0063DCD4 /* ViewController.swift */,
+				24FF3B141ADEF6770063DCD4 /* TableViewController.swift */,
 				24FF3AF81ADEF32D0063DCD4 /* Main.storyboard */,
 				24FF3AFB1ADEF32D0063DCD4 /* Images.xcassets */,
 				24FF3AFD1ADEF32D0063DCD4 /* LaunchScreen.xib */,
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				24FF3AF71ADEF32D0063DCD4 /* ViewController.swift in Sources */,
+				24FF3B151ADEF6770063DCD4 /* TableViewController.swift in Sources */,
 				24FF3AF51ADEF32D0063DCD4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
